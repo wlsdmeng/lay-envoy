@@ -510,7 +510,7 @@
         },
         {
           "name": "user",
-          "title": "我的设置",
+          "title": "我的设置的",
           "spread": true,
           "list": [
             {
