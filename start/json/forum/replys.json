@@ -1,5 +1,5 @@
 {
-  "code": 0
+  "code": 200
   ,"msg": ""
   ,"count": "100"
   ,"data": [{
@@ -28,7 +28,7 @@
     ,"replyer": "冯"
     ,"cardid": "1001"
     ,"avatar": "https://wx2.sinaimg.cn/mw690/5db11ff4gy1fmx4kec5bvj20eb0h3mxh.jpg"
-    ,"content": "可能因为你流鼻血了。" 
+    ,"content": "可能因为你流鼻血了。"
     ,"replytime": 20170405
   },{
     "id": "005"
@@ -42,7 +42,7 @@
     ,"replyer": "褚"
     ,"cardid": "1005"
     ,"avatar": "https://wx2.sinaimg.cn/mw690/5db11ff4gy1fmx4kec5bvj20eb0h3mxh.jpg"
-    ,"content": "纯属放屁" 
+    ,"content": "纯属放屁"
     ,"replytime": 20180207
   },{
     "id": "007"
@@ -56,7 +56,7 @@
     ,"replyer": "蒋"
     ,"cardid": "1006"
     ,"avatar": "https://wx2.sinaimg.cn/mw690/5db11ff4gy1fmx4kec5bvj20eb0h3mxh.jpg"
-    ,"content": "是啊是啊，太恐怖了。" 
+    ,"content": "是啊是啊，太恐怖了。"
     ,"replytime": 20180512
   },{
     "id": "007"

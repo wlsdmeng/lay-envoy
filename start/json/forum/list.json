@@ -1,5 +1,5 @@
 {
-  "code": 0
+  "code": 200
   ,"msg": ""
   ,"count": "100"
   ,"data": [{
@@ -27,7 +27,7 @@
     "id": "1004"
     ,"poster": "李"
     ,"avatar": "https://wx4.sinaimg.cn/mw1024/5db11ff4gy1fmx4keaw9pj20dw08caa4.jpg"
-    ,"content": "希望明天是个好天气" 
+    ,"content": "希望明天是个好天气"
     ,"posttime": 20171005
     ,"top": false
   },{
@@ -41,7 +41,7 @@
     "id": "1006"
     ,"poster": "吴"
     ,"avatar": "https://wx4.sinaimg.cn/mw1024/5db11ff4gy1fmx4keaw9pj20dw08caa4.jpg"
-    ,"content": "竟然有人跳楼，年轻人想不开啊！" 
+    ,"content": "竟然有人跳楼，年轻人想不开啊！"
     ,"posttime": 20180512
     ,"top": false
   },{
